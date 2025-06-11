@@ -1,9 +1,8 @@
-
 Portfolio of completed projects I worked on while attending the BI Analytics TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Music Streaming Service]||Conducted in-depth analysis using Excel and Google Sheets to uncover genre trends, compare free vs paid user behavior, and provide strategic recommendations for increasing user conversion and retention.|
+| 0 | [Music Streaming Service](PROJECT DIRECTORY LINK) | Conducted in-depth analysis using Excel and Google Sheets to uncover genre trends, compare free vs paid user behavior, and provide strategic recommendations for increasing user conversion and retention. |
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
@@ -16,4 +15,3 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 -->
-
