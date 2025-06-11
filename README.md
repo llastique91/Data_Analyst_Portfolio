@@ -2,7 +2,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Music Streaming Service](PROJECT DIRECTORY LINK) | Conducted in-depth analysis using Excel and Google Sheets to uncover genre trends, compare free vs paid user behavior, and provide strategic recommendations for increasing user conversion and retention. |
+| 0 | [Music Streaming Service]([PROJECT](https://github.com/llastique91/Data_Analyst_Portfolio/tree/main/Music_Streaming_Service) DIRECTORY LINK) | Conducted in-depth analysis using Excel and Google Sheets to uncover genre trends, compare free vs paid user behavior, and provide strategic recommendations for increasing user conversion and retention. |
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
